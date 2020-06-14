@@ -64,7 +64,7 @@ transition: 2s ease;
 }
 
 a:hover {
-	background-color: pink;
+	background-color: #c2c5c3;
 	font-variant: normal;
 border-radius:350px;
 -webkit-transform: rotate(360deg);
